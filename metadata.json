@@ -1,0 +1,8 @@
+{
+  "name": "SquadReview",
+  "description": "Multi-agent code review, debugging, style linting, and sandboxed test verification workbench with Agentic RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
